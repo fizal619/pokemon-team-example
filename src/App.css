@@ -1,0 +1,21 @@
+.list {
+  text-align: center;
+  width: 50%;
+  display: inline-block;
+  height: 99vh;
+  overflow-y: scroll;
+}
+
+.dex {
+  margin: 10px;
+  padding: 10px;
+  background-color: tomato;
+  color: white;
+  display: inline-block;
+}
+
+.dex img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
